@@ -2,6 +2,8 @@
 
 A simple shopping list web app built with HTML, CSS, JavaScript, and Firebase Realtime Database. Add items to your shopping list, view them in real-time, and remove them with a double-click.
 
+<img src="./demo.jpeg" style="width:250px; height:450px">
+
 ## Features
 
 - Add items to your shopping list
@@ -41,4 +43,4 @@ All icons and images are in the [`assets/`](assets/) folder.
 
 ## License
 
-This project is for educational purposes.# Add-to-Cart
+This project is for educational purposes.
