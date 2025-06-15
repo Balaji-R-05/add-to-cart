@@ -41,4 +41,4 @@ All icons and images are in the [`assets/`](assets/) folder.
 
 ## License
 
-This project is for educational purposes.
+This project is for educational purposes.# Add-to-Cart
